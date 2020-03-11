@@ -1,0 +1,11 @@
+.clear-button {
+	display: flex;
+	justify-content: space-between;
+	margin: 40px 22px;
+	.clear-button-content {
+		background-color: #fff;
+		padding: 12px 77px;
+		border-radius: 6px;
+		box-shadow: 0px 2px 4px #efefef;
+	}
+}
