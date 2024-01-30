@@ -8,7 +8,7 @@ const Button = ({ handleAddList, handleClearAll }) => {
 				Add List
 			</div>
 			<div onClick={handleClearAll} className='clear-button-content'>
-				Clear All
+				Clear All of them
 			</div>
 		</div>
 	);
